@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JetASEAN</string>
+    <string name="search_country">Type the country name</string>
+    <string name="capital">Capital: %s</string>
+    <string name="membership">Commencement Date: %s</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="my_name">Kristian Ekachandra</string>
+    <string name="my_email">kristianekachandra8@gmail.com</string>
+    <string name="favorite_add">Add %s to favorite</string>
+    <string name="favorite_remove">Remove %s from favorite</string>
+    <string name="back">Back</string>
+    <string name="detail_title">Member: %s</string>
+    <string name="search_not_found">The list are empty!</string>
+    <string name="about_page">about_page</string>
+    <string name="home_page">home_page</string>
+    <string name="favorite_page">favorite_page</string>
+    <string name="clear_text">Clear Text</string>
+</resources>
