@@ -1,9 +1,25 @@
 # JetASEAN
 JetASEAN Dicoding-BMAAJC (Belajar Membuat Aplikasi Android dengan Jetpack Compose)
 
+<br>
+
 > **Warning**
 > 
 > IF YOU ARE WORKING ON THE SAME SUBMISSION, PLEASE DO NOT COPY PASTE, JUST USE THIS AS A REFERENCE MATERIAL ONLY
+
+<br>
+
+## Made with
+- Kotlin
+- Jetpack Compose
+- Material3
+- MVVM
+- Room
+- Flow
+- LazyList
+- UI Testing
+
+<br>
 
 ## Screenshots
 | Home | Favorite | Detail |
